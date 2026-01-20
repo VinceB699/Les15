@@ -1,0 +1,54 @@
+Li{
+    display: inline-block;
+}
+header{
+    background-color: #7fffd4;font-size: 30px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;height: 80px;padding-top: 5px;text-align: center;
+}
+.headermijncv{
+    background-color: #7fffd4 ;font-size: 30px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;height: 80px;text-align: center;padding-top: 5px;
+}
+.links:hover{
+    color: rgb(255, 0, 64);
+}
+table{
+    margin-left: 17%;margin-top: 50px;padding-left: 26%;
+}
+.CVtabel2{
+margin-top: 20px;
+}
+form{
+    padding-left: 26%;
+}
+article{
+    max-width:400px; background-color: bisque;margin-top: 10px;text-align: center;margin-left: 43%;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;font-size:large;color: blueviolet;
+}
+input[type="text"], input[type="email"], textarea, button{
+    display: block; margin: 20px 0px 0px 435px;width: 400px;box-sizing: border-box; border-radius: 3px; text-align: center;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size: small;color: black;padding: 1%;
+}
+textarea{
+    min-width: 100px;min-height: 300px;
+}
+.foto1{
+    margin-left: 20%;padding-left: 0px;border-style: double;margin-left: 43%;
+}
+td, th{
+padding: 5px 10px;background-color: rgb(228, 136, 15);Width: 180px;text-align: center;
+}
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: x-small;opacity:calc(25%);padding-left: 43%;
+}
+.footercv{
+    opacity: 80%;
+}
+a:hover{
+   color: rgb(255, 0, 64);
+}
+button:active{
+                background-color: rgb(62, 8, 190);color: white;border-radius: 4px; box-shadow: inset 2px 2px 5px blue;
+}
