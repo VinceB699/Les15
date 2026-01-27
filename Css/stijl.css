@@ -5,7 +5,7 @@ header{
     background-color: #7fffd4;font-size: 30px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;height: 80px;padding-top: 5px;text-align: center;
 }
 .headermijncv{
-    background-color: #7fffd4 ;font-size: 30px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;height: 80px;text-align: center;padding-top: 5px;
+    background-color: #7fffd4 ;font-size: 30px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;height: 150px;text-align: center;padding-top: 5px;
 }
 .links:hover{
     color: rgb(255, 0, 64);
@@ -51,4 +51,5 @@ a:hover{
 }
 button:active{
                 background-color: rgb(62, 8, 190);color: white;border-radius: 4px; box-shadow: inset 2px 2px 5px blue;
+
 }
